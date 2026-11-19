@@ -1,0 +1,7 @@
+{
+  "candidate": "ram1.5GiB-jobs1",
+  "physicalFreeGiB": 5.2901611328125,
+  "hostFreeMiB": 421.5859375,
+  "ramFreeGiB": 1.4939918518066406,
+  "preflightPassed": false
+}

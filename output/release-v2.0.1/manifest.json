@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "version": "2.0.1",
+  "build": 3,
+  "createdAtUtc": "2026-11-17T08:03:35.188889+00:00",
+  "source": {
+    "file": "Tiny-Trails-Source.zip",
+    "files": 302,
+    "bytes": 58756805,
+    "sha256": "c2fbdeb1e562e7f64c0ffb2cfd23847b1810c0771dcaa7e9550a62b0d7115ad3"
+  },
+  "verification": {
+    "wholeFlutterTestsPassed": 500,
+    "renderedAnimationTestsPassed": 2,
+    "analyzer": "No issues found",
+    "onboardingRealFontCaptures": 9,
+    "tourCaptures": 24,
+    "newIconKinds": 26
+  },
+  "nativeDelivery": {
+    "signedBuildCreated": false,
+    "installedOnPhone": false,
+    "blocker": "Insufficient SSD and guarded RAM-build admission; source/UI work complete",
+    "ramWorkspacesCleaned": true
+  },
+  "hostFreeMiB": 358
+}

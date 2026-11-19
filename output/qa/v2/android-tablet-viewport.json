@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 1,
+  "serial": "emulator-5554",
+  "startedAtUtc": "2026-11-17T00:33:15.703695+00:00",
+  "maxSessionSeconds": 180,
+  "restoreReserveSeconds": 40,
+  "original": {
+    "size": {
+      "physical": [
+        1080,
+        2220
+      ],
+      "override": null
+    },
+    "density": {
+      "physical": 440,
+      "override": null
+    }
+  },
+  "history": [
+    {
+      "atUtc": "2026-11-17T00:33:15.703856+00:00",
+      "wm": [
+        "size"
+      ],
+      "returnCode": 0,
+      "ok": true
+    },
+    {
+      "atUtc": "2026-11-17T00:33:15.728864+00:00",
+      "wm": [
+        "density"
+      ],
+      "returnCode": 0,
+      "ok": true
+    },
+    {
+      "atUtc": "2026-11-17T00:33:15.752740+00:00",
+      "wm": [
+        "size",
+        "2000x1400"
+      ],
+      "returnCode": 0,
+      "ok": true
+    },
+    {
+      "atUtc": "2026-11-17T00:33:15.817779+00:00",
+      "wm": [
+        "density",
+        "320"
+      ],
+      "returnCode": 0,
+      "ok": true
+    },
+    {
+      "atUtc": "2026-11-17T00:33:15.927138+00:00",
+      "wm": [
+        "size"
+      ],
+      "returnCode": 0,
+      "ok": true
+    },
+    {
+      "atUtc": "2026-11-17T00:33:15.987607+00:00",
+      "wm": [
+        "density"
+      ],
+      "returnCode": 0,
+      "ok": true
+    },
+    {
+      "atUtc": "2026-11-17T00:34:23.126553+00:00",
+      "wm": [
+        "size",
+        "1400x2000"
+      ],
+      "returnCode": 0,
+      "ok": true
+    },
+    {
+      "atUtc": "2026-11-17T00:34:23.197585+00:00",
+      "wm": [
+        "density",
+        "320"
+      ],
+      "returnCode": 0,
+      "ok": true
+    },
+    {
+      "atUtc": "2026-11-17T00:34:23.265958+00:00",
+      "wm": [
+        "size"
+      ],
+      "returnCode": 0,
+      "ok": true
+    },
+    {
+      "atUtc": "2026-11-17T00:34:23.355924+00:00",
+      "wm": [
+        "density"
+      ],
+      "returnCode": 0,
+      "ok": true
+    },
+    {
+      "atUtc": "2026-11-17T00:34:36.220293+00:00",
+      "wm": [
+        "size",
+        "reset"
+      ],
+      "returnCode": 0,
+      "ok": true
+    },
+    {
+      "atUtc": "2026-11-17T00:34:36.286941+00:00",
+      "wm": [
+        "density",
+        "reset"
+      ],
+      "returnCode": 0,
+      "ok": true
+    },
+    {
+      "atUtc": "2026-11-17T00:34:36.392569+00:00",
+      "wm": [
+        "size"
+      ],
+      "returnCode": 0,
+      "ok": true
+    },
+    {
+      "atUtc": "2026-11-17T00:34:36.458627+00:00",
+      "wm": [
+        "density"
+      ],
+      "returnCode": 0,
+      "ok": true
+    }
+  ],
+  "restored": true,
+  "errors": [],
+  "current": {
+    "orientationRequest": "portrait",
+    "configuredDp": [
+      700,
+      1000
+    ],
+    "observedWm": {
+      "size": {
+        "physical": [
+          1080,
+          2220
+        ],
+        "override": [
+          1400,
+          2000
+        ]
+      },
+      "density": {
+        "physical": 440,
+        "override": 320
+      }
+    },
+    "atUtc": "2026-11-17T00:34:23.427409+00:00"
+  },
+  "stopReason": "done",
+  "restoreAttempted": true,
+  "afterRestore": {
+    "size": {
+      "physical": [
+        1080,
+        2220
+      ],
+      "override": null
+    },
+    "density": {
+      "physical": 440,
+      "override": null
+    }
+  },
+  "finishedAtUtc": "2026-11-17T00:34:36.531284+00:00",
+  "elapsedSeconds": 80.825,
+  "exitCode": 0
+}

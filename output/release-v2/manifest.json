@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "application": "Tiny Trails",
+  "version": "2.0.0",
+  "build": 2,
+  "createdAtUtc": "2026-11-17T00:45:49.147023+00:00",
+  "entrypoint": "lib/main.dart",
+  "artifacts": [
+    {
+      "file": "Tiny-Trails-Android.apk",
+      "bytes": 74664358,
+      "sha256": "4e5de8a9458464979e2b7033f58420a58dab87490d87d2709dc86d38b80b678c"
+    },
+    {
+      "file": "Tiny-Trails-iOS-device.zip",
+      "bytes": 60518686,
+      "sha256": "2438795bad9945654fc19a59ef85c3254ba9471b3f7070ce469e6c3bbac40be7"
+    },
+    {
+      "file": "Tiny-Trails-Source.zip",
+      "bytes": 52895897,
+      "sha256": "d52ff6251981c1f2d45314042aa72f3f9c9a7eb1ca6af7db01172c0307543114"
+    }
+  ],
+  "verification": {
+    "analyzer": "No issues found",
+    "flutterTestsPassed": 487,
+    "offlineNodeTestsPassed": 15,
+    "nativeProfiles": [
+      {
+        "platform": "android",
+        "age": 4,
+        "levelsPassed": 20,
+        "audioLocales": [
+          "ru",
+          "kk",
+          "en"
+        ]
+      },
+      {
+        "platform": "android",
+        "age": 6,
+        "levelsPassed": 20,
+        "audioLocales": [
+          "ru",
+          "kk",
+          "en"
+        ]
+      },
+      {
+        "platform": "android",
+        "age": 10,
+        "levelsPassed": 20,
+        "audioLocales": [
+          "ru",
+          "kk",
+          "en"
+        ]
+      },
+      {
+        "platform": "ios",
+        "age": 4,
+        "levelsPassed": 20,
+        "audioLocales": [
+          "ru",
+          "kk",
+          "en"
+        ]
+      },
+      {
+        "platform": "ios",
+        "age": 6,
+        "levelsPassed": 20,
+        "audioLocales": [
+          "ru",
+          "kk",
+          "en"
+        ]
+      },
+      {
+        "platform": "ios",
+        "age": 10,
+        "levelsPassed": 20,
+        "audioLocales": [
+          "ru",
+          "kk",
+          "en"
+        ]
+      }
+    ],
+    "androidTabletViewportDp": [
+      [
+        1000,
+        700
+      ],
+      [
+        700,
+        1000
+      ]
+    ],
+    "androidProcessRestartRestoredDraft": true,
+    "iosArchiveSignatureRoundtrip": "PASS",
+    "publicMediaResourcesMatchedPerApp": 94,
+    "bundledNarrationClips": 72,
+    "fullNunitoLicenseBundled": true,
+    "physicalIPhoneInstallation": "INSTALLED_AND_LAUNCHED on iPhone 15 Pro Max; running process observed",
+    "physicalIPhoneLaunchReceipt": "../qa/v2/physical-iphone-launch.json"
+  },
+  "updatedAtUtc": "2026-11-17T05:55:07.234578+00:00"
+}

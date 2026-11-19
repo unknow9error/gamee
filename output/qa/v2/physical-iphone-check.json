@@ -1,0 +1,20 @@
+{
+  "checkedAtUtc": "2026-11-17T00:40:01.217182+00:00",
+  "target": "previously authorized iPhone 15 Pro Max",
+  "listed": true,
+  "availability": "unavailable",
+  "commandReturnCode": 0,
+  "matchedRecords": 1,
+  "propertiesState": {
+    "developerModeStatus": {
+      "enabled": {
+        "mode": 1
+      }
+    },
+    "name": "iPhone нур"
+  },
+  "connection": {
+    "pairingState": "paired"
+  },
+  "officialState": "unavailable"
+}

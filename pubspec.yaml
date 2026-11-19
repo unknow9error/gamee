@@ -1,0 +1,35 @@
+name: tiny_trails
+description: An offline creative learning adventure for curious children.
+publish_to: none
+version: 2.0.1+3
+environment:
+  sdk: ^3.13.7
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  shared_preferences: ^2.5.4
+  audioplayers: ^6.5.1
+  crypto: ^3.0.8
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  integration_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+flutter:
+  uses-material-design: true
+  licenses:
+    - assets/fonts/OFL.txt
+  assets:
+    - assets/audio/
+    - assets/audio/narration/
+    - assets/images/
+    - assets/images/levels/
+    - assets/content/
+  fonts:
+    - family: Nunito
+      fonts:
+        - asset: assets/fonts/Nunito.ttf

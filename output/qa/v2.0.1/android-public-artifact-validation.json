@@ -1,0 +1,19 @@
+{
+  "version": "2.0.1",
+  "build": "3",
+  "mediaCount": 97,
+  "mediaBreakdown": {
+    "levelPng": 20,
+    "mascotPng": 2,
+    "mp3": 72,
+    "wav": 3
+  },
+  "allMediaSourceBytesExact": true,
+  "nunitoBundled": true,
+  "wavePngSourceExact": true,
+  "adaptiveBitmapSourcePixelsExact": true,
+  "adaptiveXmlBitmapNotVector": true,
+  "adaptiveCompiledWiringResolved": true,
+  "debugKernelAbsent": true,
+  "apksignerVerified": true
+}

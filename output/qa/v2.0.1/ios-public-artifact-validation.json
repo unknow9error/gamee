@@ -1,0 +1,10 @@
+{
+  "bundleIdentifier": "kz.tinytrails.tinyTrails",
+  "version": "2.0.1",
+  "build": "3",
+  "iconName": "AppIcon",
+  "nunitoBundled": true,
+  "debugKernelAbsent": true,
+  "compiledIconNewSourcePixelMatch": true,
+  "codesignStrictVerified": true
+}

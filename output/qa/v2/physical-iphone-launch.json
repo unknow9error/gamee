@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "observedAtUtc": "2026-11-17T05:54:48.040361+00:00",
+  "platform": "ios",
+  "deviceModel": "iPhone 15 Pro Max",
+  "bundleIdentifier": "kz.tinytrails.tinyTrails",
+  "version": "2.0.0",
+  "build": 2,
+  "installed": true,
+  "launchAccepted": true,
+  "foregroundRequested": true,
+  "processIdentifier": 18427,
+  "processObservedRunning": true,
+  "fullGameplayMatrixOnPhysicalDevice": false
+}

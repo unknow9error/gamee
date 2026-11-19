@@ -1,0 +1,36 @@
+{
+  "started": true,
+  "exitCode": 0,
+  "guardStopped": false,
+  "reason": null,
+  "elapsedSeconds": 3.1,
+  "initial": {
+    "physicalFreeBytes": 6381486080,
+    "hostFreeBytes": 480051200,
+    "ramFreeBytes": 1867755520,
+    "childTreeRssBytes": 0
+  },
+  "samples": [
+    {
+      "physicalFreeBytes": 6384893952,
+      "hostFreeBytes": 480038912,
+      "ramFreeBytes": 1867755520,
+      "childTreeRssBytes": 212992,
+      "elapsedSeconds": 0.02
+    },
+    {
+      "physicalFreeBytes": 6097027072,
+      "hostFreeBytes": 480063488,
+      "ramFreeBytes": 1867755520,
+      "childTreeRssBytes": 254656512,
+      "elapsedSeconds": 1.06
+    },
+    {
+      "physicalFreeBytes": 5779816448,
+      "hostFreeBytes": 479858688,
+      "ramFreeBytes": 1867755520,
+      "childTreeRssBytes": 551665664,
+      "elapsedSeconds": 2.09
+    }
+  ]
+}

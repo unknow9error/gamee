@@ -1,0 +1,85 @@
+{
+  "started": true,
+  "exitCode": 75,
+  "guardStopped": true,
+  "reason": "physical free memory below 4 GiB",
+  "elapsedSeconds": 9.85,
+  "initial": {
+    "physicalFreeBytes": 5473042432,
+    "hostFreeBytes": 461635584,
+    "ramFreeBytes": 2080002048,
+    "childTreeRssBytes": 0
+  },
+  "samples": [
+    {
+      "physicalFreeBytes": 5472092160,
+      "hostFreeBytes": 461635584,
+      "ramFreeBytes": 2079981568,
+      "childTreeRssBytes": 180224,
+      "elapsedSeconds": 0.02
+    },
+    {
+      "physicalFreeBytes": 5274877952,
+      "hostFreeBytes": 461565952,
+      "ramFreeBytes": 2079907840,
+      "childTreeRssBytes": 202620928,
+      "elapsedSeconds": 1.06
+    },
+    {
+      "physicalFreeBytes": 5356257280,
+      "hostFreeBytes": 466051072,
+      "ramFreeBytes": 2079694848,
+      "childTreeRssBytes": 205324288,
+      "elapsedSeconds": 2.09
+    },
+    {
+      "physicalFreeBytes": 5369036800,
+      "hostFreeBytes": 465973248,
+      "ramFreeBytes": 2079961088,
+      "childTreeRssBytes": 215400448,
+      "elapsedSeconds": 3.12
+    },
+    {
+      "physicalFreeBytes": 4963500032,
+      "hostFreeBytes": 465944576,
+      "ramFreeBytes": 1937518592,
+      "childTreeRssBytes": 635879424,
+      "elapsedSeconds": 4.15
+    },
+    {
+      "physicalFreeBytes": 5047975936,
+      "hostFreeBytes": 465809408,
+      "ramFreeBytes": 1917722624,
+      "childTreeRssBytes": 269123584,
+      "elapsedSeconds": 5.18
+    },
+    {
+      "physicalFreeBytes": 4931272704,
+      "hostFreeBytes": 465764352,
+      "ramFreeBytes": 1917566976,
+      "childTreeRssBytes": 578945024,
+      "elapsedSeconds": 6.21
+    },
+    {
+      "physicalFreeBytes": 4438425600,
+      "hostFreeBytes": 465362944,
+      "ramFreeBytes": 1904488448,
+      "childTreeRssBytes": 689995776,
+      "elapsedSeconds": 7.24
+    },
+    {
+      "physicalFreeBytes": 4322557952,
+      "hostFreeBytes": 465362944,
+      "ramFreeBytes": 1894887424,
+      "childTreeRssBytes": 736395264,
+      "elapsedSeconds": 8.27
+    },
+    {
+      "physicalFreeBytes": 4281319424,
+      "hostFreeBytes": 465362944,
+      "ramFreeBytes": 1870266368,
+      "childTreeRssBytes": 819068928,
+      "elapsedSeconds": 9.31
+    }
+  ]
+}

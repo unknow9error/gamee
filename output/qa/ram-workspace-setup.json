@@ -1,0 +1,11 @@
+{
+  "routingActive": false,
+  "ramDetached": true,
+  "candidate": "ram1.5GiB-jobs1",
+  "compilerStarted": false,
+  "reason": "physicalFreeGiB5.2901611328125 below required5.5",
+  "normalDirectories": [
+    "build",
+    ".dart_tool/flutter_build"
+  ]
+}

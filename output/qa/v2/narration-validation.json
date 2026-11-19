@@ -1,0 +1,510 @@
+{
+  "clips": [
+    {
+      "key": "v2_01",
+      "language": "ru",
+      "duration": 3.788,
+      "valid": true,
+      "bytes": 61065
+    },
+    {
+      "key": "v2_01",
+      "language": "kk",
+      "duration": 3.553,
+      "valid": true,
+      "bytes": 57303
+    },
+    {
+      "key": "v2_01",
+      "language": "en",
+      "duration": 3.161,
+      "valid": true,
+      "bytes": 51034
+    },
+    {
+      "key": "v2_02",
+      "language": "ru",
+      "duration": 4.206,
+      "valid": true,
+      "bytes": 67752
+    },
+    {
+      "key": "v2_02",
+      "language": "kk",
+      "duration": 3.631,
+      "valid": true,
+      "bytes": 58557
+    },
+    {
+      "key": "v2_02",
+      "language": "en",
+      "duration": 3.631,
+      "valid": true,
+      "bytes": 58557
+    },
+    {
+      "key": "v2_03",
+      "language": "ru",
+      "duration": 3.866,
+      "valid": true,
+      "bytes": 62318
+    },
+    {
+      "key": "v2_03",
+      "language": "kk",
+      "duration": 3.709,
+      "valid": true,
+      "bytes": 59811
+    },
+    {
+      "key": "v2_03",
+      "language": "en",
+      "duration": 3.788,
+      "valid": true,
+      "bytes": 61065
+    },
+    {
+      "key": "v2_04",
+      "language": "ru",
+      "duration": 2.586,
+      "valid": true,
+      "bytes": 41838
+    },
+    {
+      "key": "v2_04",
+      "language": "kk",
+      "duration": 2.508,
+      "valid": true,
+      "bytes": 40585
+    },
+    {
+      "key": "v2_04",
+      "language": "en",
+      "duration": 2.769,
+      "valid": true,
+      "bytes": 44764
+    },
+    {
+      "key": "v2_05",
+      "language": "ru",
+      "duration": 3.318,
+      "valid": true,
+      "bytes": 53541
+    },
+    {
+      "key": "v2_05",
+      "language": "kk",
+      "duration": 2.926,
+      "valid": true,
+      "bytes": 47272
+    },
+    {
+      "key": "v2_05",
+      "language": "en",
+      "duration": 3.004,
+      "valid": true,
+      "bytes": 48526
+    },
+    {
+      "key": "v2_06",
+      "language": "ru",
+      "duration": 4.362,
+      "valid": true,
+      "bytes": 70260
+    },
+    {
+      "key": "v2_06",
+      "language": "kk",
+      "duration": 4.127,
+      "valid": true,
+      "bytes": 66498
+    },
+    {
+      "key": "v2_06",
+      "language": "en",
+      "duration": 3.709,
+      "valid": true,
+      "bytes": 59811
+    },
+    {
+      "key": "v2_07",
+      "language": "ru",
+      "duration": 4.127,
+      "valid": true,
+      "bytes": 66498
+    },
+    {
+      "key": "v2_07",
+      "language": "kk",
+      "duration": 3.553,
+      "valid": true,
+      "bytes": 57303
+    },
+    {
+      "key": "v2_07",
+      "language": "en",
+      "duration": 3.161,
+      "valid": true,
+      "bytes": 51034
+    },
+    {
+      "key": "v2_08",
+      "language": "ru",
+      "duration": 3.474,
+      "valid": true,
+      "bytes": 56049
+    },
+    {
+      "key": "v2_08",
+      "language": "kk",
+      "duration": 4.049,
+      "valid": true,
+      "bytes": 65244
+    },
+    {
+      "key": "v2_08",
+      "language": "en",
+      "duration": 3.396,
+      "valid": true,
+      "bytes": 54795
+    },
+    {
+      "key": "v2_09",
+      "language": "ru",
+      "duration": 3.239,
+      "valid": true,
+      "bytes": 52287
+    },
+    {
+      "key": "v2_09",
+      "language": "kk",
+      "duration": 3.553,
+      "valid": true,
+      "bytes": 57303
+    },
+    {
+      "key": "v2_09",
+      "language": "en",
+      "duration": 3.239,
+      "valid": true,
+      "bytes": 52287
+    },
+    {
+      "key": "v2_10",
+      "language": "ru",
+      "duration": 4.206,
+      "valid": true,
+      "bytes": 67752
+    },
+    {
+      "key": "v2_10",
+      "language": "kk",
+      "duration": 3.553,
+      "valid": true,
+      "bytes": 57303
+    },
+    {
+      "key": "v2_10",
+      "language": "en",
+      "duration": 3.709,
+      "valid": true,
+      "bytes": 59811
+    },
+    {
+      "key": "v2_11",
+      "language": "ru",
+      "duration": 3.474,
+      "valid": true,
+      "bytes": 56049
+    },
+    {
+      "key": "v2_11",
+      "language": "kk",
+      "duration": 3.004,
+      "valid": true,
+      "bytes": 48526
+    },
+    {
+      "key": "v2_11",
+      "language": "en",
+      "duration": 3.004,
+      "valid": true,
+      "bytes": 48526
+    },
+    {
+      "key": "v2_12",
+      "language": "ru",
+      "duration": 4.049,
+      "valid": true,
+      "bytes": 65244
+    },
+    {
+      "key": "v2_12",
+      "language": "kk",
+      "duration": 4.049,
+      "valid": true,
+      "bytes": 65244
+    },
+    {
+      "key": "v2_12",
+      "language": "en",
+      "duration": 3.553,
+      "valid": true,
+      "bytes": 57303
+    },
+    {
+      "key": "v2_13",
+      "language": "ru",
+      "duration": 4.362,
+      "valid": true,
+      "bytes": 70260
+    },
+    {
+      "key": "v2_13",
+      "language": "kk",
+      "duration": 3.788,
+      "valid": true,
+      "bytes": 61065
+    },
+    {
+      "key": "v2_13",
+      "language": "en",
+      "duration": 3.709,
+      "valid": true,
+      "bytes": 59811
+    },
+    {
+      "key": "v2_14",
+      "language": "ru",
+      "duration": 4.049,
+      "valid": true,
+      "bytes": 65244
+    },
+    {
+      "key": "v2_14",
+      "language": "kk",
+      "duration": 4.833,
+      "valid": true,
+      "bytes": 77783
+    },
+    {
+      "key": "v2_14",
+      "language": "en",
+      "duration": 4.127,
+      "valid": true,
+      "bytes": 66498
+    },
+    {
+      "key": "v2_15",
+      "language": "ru",
+      "duration": 4.598,
+      "valid": true,
+      "bytes": 74021
+    },
+    {
+      "key": "v2_15",
+      "language": "kk",
+      "duration": 4.989,
+      "valid": true,
+      "bytes": 80291
+    },
+    {
+      "key": "v2_15",
+      "language": "en",
+      "duration": 4.206,
+      "valid": true,
+      "bytes": 67752
+    },
+    {
+      "key": "v2_16",
+      "language": "ru",
+      "duration": 4.049,
+      "valid": true,
+      "bytes": 65244
+    },
+    {
+      "key": "v2_16",
+      "language": "kk",
+      "duration": 3.318,
+      "valid": true,
+      "bytes": 53541
+    },
+    {
+      "key": "v2_16",
+      "language": "en",
+      "duration": 3.082,
+      "valid": true,
+      "bytes": 49780
+    },
+    {
+      "key": "v2_17",
+      "language": "ru",
+      "duration": 2.508,
+      "valid": true,
+      "bytes": 40585
+    },
+    {
+      "key": "v2_17",
+      "language": "kk",
+      "duration": 3.161,
+      "valid": true,
+      "bytes": 51034
+    },
+    {
+      "key": "v2_17",
+      "language": "en",
+      "duration": 2.429,
+      "valid": true,
+      "bytes": 39331
+    },
+    {
+      "key": "v2_18",
+      "language": "ru",
+      "duration": 4.519,
+      "valid": true,
+      "bytes": 72767
+    },
+    {
+      "key": "v2_18",
+      "language": "kk",
+      "duration": 4.519,
+      "valid": true,
+      "bytes": 72767
+    },
+    {
+      "key": "v2_18",
+      "language": "en",
+      "duration": 4.441,
+      "valid": true,
+      "bytes": 71514
+    },
+    {
+      "key": "v2_19",
+      "language": "ru",
+      "duration": 3.239,
+      "valid": true,
+      "bytes": 52287
+    },
+    {
+      "key": "v2_19",
+      "language": "kk",
+      "duration": 3.161,
+      "valid": true,
+      "bytes": 51034
+    },
+    {
+      "key": "v2_19",
+      "language": "en",
+      "duration": 3.161,
+      "valid": true,
+      "bytes": 51034
+    },
+    {
+      "key": "v2_20",
+      "language": "ru",
+      "duration": 4.206,
+      "valid": true,
+      "bytes": 67752
+    },
+    {
+      "key": "v2_20",
+      "language": "kk",
+      "duration": 3.553,
+      "valid": true,
+      "bytes": 57303
+    },
+    {
+      "key": "v2_20",
+      "language": "en",
+      "duration": 3.788,
+      "valid": true,
+      "bytes": 61065
+    },
+    {
+      "key": "onboarding_01",
+      "language": "ru",
+      "duration": 7.706,
+      "valid": true,
+      "bytes": 123758
+    },
+    {
+      "key": "onboarding_01",
+      "language": "kk",
+      "duration": 7.889,
+      "valid": true,
+      "bytes": 126684
+    },
+    {
+      "key": "onboarding_01",
+      "language": "en",
+      "duration": 6.191,
+      "valid": true,
+      "bytes": 99517
+    },
+    {
+      "key": "onboarding_02",
+      "language": "ru",
+      "duration": 7.236,
+      "valid": true,
+      "bytes": 116235
+    },
+    {
+      "key": "onboarding_02",
+      "language": "kk",
+      "duration": 6.687,
+      "valid": true,
+      "bytes": 107458
+    },
+    {
+      "key": "onboarding_02",
+      "language": "en",
+      "duration": 5.799,
+      "valid": true,
+      "bytes": 93247
+    },
+    {
+      "key": "onboarding_03",
+      "language": "ru",
+      "duration": 6.766,
+      "valid": true,
+      "bytes": 108712
+    },
+    {
+      "key": "onboarding_03",
+      "language": "kk",
+      "duration": 6.766,
+      "valid": true,
+      "bytes": 108712
+    },
+    {
+      "key": "onboarding_03",
+      "language": "en",
+      "duration": 6.687,
+      "valid": true,
+      "bytes": 107458
+    },
+    {
+      "key": "cue_success",
+      "language": "ru",
+      "duration": 0.993,
+      "valid": true,
+      "bytes": 16343
+    },
+    {
+      "key": "cue_success",
+      "language": "kk",
+      "duration": 0.993,
+      "valid": true,
+      "bytes": 16343
+    },
+    {
+      "key": "cue_success",
+      "language": "en",
+      "duration": 1.149,
+      "valid": true,
+      "bytes": 18851
+    }
+  ],
+  "valid": true,
+  "finalTextCharacters": 4112
+}

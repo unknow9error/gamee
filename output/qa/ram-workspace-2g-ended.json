@@ -1,0 +1,23 @@
+{
+  "ramDevice": "/dev/disk10",
+  "physicalStore": "disk10s1",
+  "apfsVolumeDevice": "disk11s1",
+  "volumeUuid": "446E4679-9A53-47ED-9F7D-341239D9D257",
+  "mount": "/Volumes/TinyTrailsRAM-01a1e16a",
+  "nominalBytes": 2147483648,
+  "links": [
+    {
+      "local": "/Users/noname/Desktop/personal-projects/mobileapp/build",
+      "target": "/Volumes/TinyTrailsRAM-01a1e16a/project-build",
+      "originalDirectoryExisted": true
+    },
+    {
+      "local": "/Users/noname/Desktop/personal-projects/mobileapp/.dart_tool/flutter_build",
+      "target": "/Volumes/TinyTrailsRAM-01a1e16a/dart-flutter-build",
+      "originalDirectoryExisted": true
+    }
+  ],
+  "routingConfig": "/Volumes/TinyTrailsRAM-01a1e16a/build-routing.xcconfig",
+  "nativeBuildStarted": false,
+  "routingActive": false
+}

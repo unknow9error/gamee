@@ -1,0 +1,133 @@
+00:00 +0: loading /Users/noname/Desktop/personal-projects/mobileapp/test/progress_screen_test.dart
+00:00 +0: /Users/noname/Desktop/personal-projects/mobileapp/test/progress_screen_test.dart: mission launches the next unlocked unfinished activity of its kind
+00:00 +1: /Users/noname/Desktop/personal-projects/mobileapp/test/celebration_test.dart: tutorial ru numberColor at phone and large text
+00:00 +2: /Users/noname/Desktop/personal-projects/mobileapp/test/celebration_test.dart: tutorial ru numberColor at phone and large text
+00:00 +3: /Users/noname/Desktop/personal-projects/mobileapp/test/celebration_test.dart: tutorial ru numberColor at phone and large text
+00:01 +4: /Users/noname/Desktop/personal-projects/mobileapp/test/color_activity_test.dart: short landscape pins Done outside the scrolling color tools
+00:01 +5: /Users/noname/Desktop/personal-projects/mobileapp/test/color_activity_test.dart: short landscape pins Done outside the scrolling color tools
+00:01 +6: /Users/noname/Desktop/personal-projects/mobileapp/test/color_activity_test.dart: short landscape pins Done outside the scrolling color tools
+00:01 +7: /Users/noname/Desktop/personal-projects/mobileapp/test/color_activity_test.dart: short landscape pins Done outside the scrolling color tools
+00:01 +8: /Users/noname/Desktop/personal-projects/mobileapp/test/color_activity_test.dart: short landscape pins Done outside the scrolling color tools
+00:01 +9: /Users/noname/Desktop/personal-projects/mobileapp/test/color_activity_test.dart: short landscape pins Done outside the scrolling color tools
+00:01 +10: /Users/noname/Desktop/personal-projects/mobileapp/test/color_activity_test.dart: short landscape pins Done outside the scrolling color tools
+00:01 +11: /Users/noname/Desktop/personal-projects/mobileapp/test/color_activity_test.dart: short landscape pins Done outside the scrolling color tools
+00:01 +12: /Users/noname/Desktop/personal-projects/mobileapp/test/color_activity_test.dart: short landscape pins Done outside the scrolling color tools
+00:01 +13: /Users/noname/Desktop/personal-projects/mobileapp/test/color_activity_test.dart: short landscape pins Done outside the scrolling color tools
+00:01 +14: /Users/noname/Desktop/personal-projects/mobileapp/test/color_activity_test.dart: short landscape pins Done outside the scrolling color tools
+00:01 +15: /Users/noname/Desktop/personal-projects/mobileapp/test/color_activity_test.dart: short landscape pins Done outside the scrolling color tools
+00:01 +16: /Users/noname/Desktop/personal-projects/mobileapp/test/color_activity_test.dart: short landscape pins Done outside the scrolling color tools
+00:01 +17: /Users/noname/Desktop/personal-projects/mobileapp/test/celebration_test.dart: tutorial kk numberColor at phone and large text
+00:01 +18: /Users/noname/Desktop/personal-projects/mobileapp/test/maze_drawing_test.dart: every real scene can be traced with ordinary small strokes
+00:01 +19: /Users/noname/Desktop/personal-projects/mobileapp/test/maze_drawing_test.dart: every real scene can be traced with ordinary small strokes
+00:01 +20: /Users/noname/Desktop/personal-projects/mobileapp/test/maze_drawing_test.dart: every real scene can be traced with ordinary small strokes
+00:01 +21: /Users/noname/Desktop/personal-projects/mobileapp/test/maze_drawing_test.dart: every real scene can be traced with ordinary small strokes
+00:01 +22: /Users/noname/Desktop/personal-projects/mobileapp/test/color_activity_test.dart: a near miss beside a small numbered bubble paints one matching detail
+00:01 +23: /Users/noname/Desktop/personal-projects/mobileapp/test/color_activity_test.dart: a near miss beside a small numbered bubble paints one matching detail
+00:01 +24: /Users/noname/Desktop/personal-projects/mobileapp/test/maze_activity_test.dart: a persisted arrival recovers completion once after rebuilding
+00:01 +25: /Users/noname/Desktop/personal-projects/mobileapp/test/maze_activity_test.dart: a persisted arrival recovers completion once after rebuilding
+00:01 +26: /Users/noname/Desktop/personal-projects/mobileapp/test/maze_activity_test.dart: a persisted arrival recovers completion once after rebuilding
+00:01 +27: /Users/noname/Desktop/personal-projects/mobileapp/test/maze_activity_test.dart: a persisted arrival recovers completion once after rebuilding
+00:01 +28: /Users/noname/Desktop/personal-projects/mobileapp/test/maze_activity_test.dart: a persisted arrival recovers completion once after rebuilding
+00:01 +29: /Users/noname/Desktop/personal-projects/mobileapp/test/maze_activity_test.dart: a persisted arrival recovers completion once after rebuilding
+00:01 +30: /Users/noname/Desktop/personal-projects/mobileapp/test/maze_activity_test.dart: a persisted arrival recovers completion once after rebuilding
+00:01 +31: /Users/noname/Desktop/personal-projects/mobileapp/test/maze_activity_test.dart: a persisted arrival recovers completion once after rebuilding
+00:01 +32: /Users/noname/Desktop/personal-projects/mobileapp/test/maze_activity_test.dart: a persisted arrival recovers completion once after rebuilding
+00:01 +33: /Users/noname/Desktop/personal-projects/mobileapp/test/maze_activity_test.dart: a persisted arrival recovers completion once after rebuilding
+00:01 +34: /Users/noname/Desktop/personal-projects/mobileapp/test/maze_activity_test.dart: a persisted arrival recovers completion once after rebuilding
+00:01 +35: /Users/noname/Desktop/personal-projects/mobileapp/test/maze_drawing_test.dart: a child traces every duck step, colors and finishes once
+00:02 +36: /Users/noname/Desktop/personal-projects/mobileapp/test/maze_drawing_test.dart: a child traces every duck step, colors and finishes once
+00:02 +37: /Users/noname/Desktop/personal-projects/mobileapp/test/maze_drawing_test.dart: a child traces every duck step, colors and finishes once
+00:02 +38: /Users/noname/Desktop/personal-projects/mobileapp/test/maze_drawing_test.dart: a child traces every duck step, colors and finishes once
+00:02 +39: /Users/noname/Desktop/personal-projects/mobileapp/test/maze_drawing_test.dart: a child traces every duck step, colors and finishes once
+00:02 +40: /Users/noname/Desktop/personal-projects/mobileapp/test/maze_drawing_test.dart: a child traces every duck step, colors and finishes once
+00:02 +41: /Users/noname/Desktop/personal-projects/mobileapp/test/maze_drawing_test.dart: a child traces every duck step, colors and finishes once
+00:02 +42: /Users/noname/Desktop/personal-projects/mobileapp/test/maze_drawing_test.dart: a child traces every duck step, colors and finishes once
+00:02 +43: /Users/noname/Desktop/personal-projects/mobileapp/test/maze_drawing_test.dart: a child traces every duck step, colors and finishes once
+00:02 +44: /Users/noname/Desktop/personal-projects/mobileapp/test/maze_drawing_test.dart: a child traces every duck step, colors and finishes once
+00:02 +45: /Users/noname/Desktop/personal-projects/mobileapp/test/settings_test.dart: language changes all settings copy immediately
+00:02 +46: /Users/noname/Desktop/personal-projects/mobileapp/test/settings_test.dart: language changes all settings copy immediately
+00:02 +47: /Users/noname/Desktop/personal-projects/mobileapp/test/settings_test.dart: language changes all settings copy immediately
+00:02 +48: /Users/noname/Desktop/personal-projects/mobileapp/test/settings_test.dart: language changes all settings copy immediately
+00:02 +49: /Users/noname/Desktop/personal-projects/mobileapp/test/settings_test.dart: language changes all settings copy immediately
+00:02 +50: /Users/noname/Desktop/personal-projects/mobileapp/test/color_activity_test.dart: all numbered regions are required; undo and redo preserve actual progress
+00:02 +51: /Users/noname/Desktop/personal-projects/mobileapp/test/color_activity_test.dart: all numbered regions are required; undo and redo preserve actual progress
+00:02 +52: /Users/noname/Desktop/personal-projects/mobileapp/test/maze_drawing_test.dart: invalid restored stages cannot skip to coloring
+00:02 +53: /Users/noname/Desktop/personal-projects/mobileapp/test/settings_test.dart: wrong parent answer cannot expose destructive action
+00:02 +54: /Users/noname/Desktop/personal-projects/mobileapp/test/settings_test.dart: wrong parent answer cannot expose destructive action
+00:02 +55: /Users/noname/Desktop/personal-projects/mobileapp/test/settings_test.dart: wrong parent answer cannot expose destructive action
+00:02 +56: /Users/noname/Desktop/personal-projects/mobileapp/test/settings_test.dart: wrong parent answer cannot expose destructive action
+00:02 +57: /Users/noname/Desktop/personal-projects/mobileapp/test/settings_test.dart: wrong parent answer cannot expose destructive action
+00:02 +58: /Users/noname/Desktop/personal-projects/mobileapp/test/settings_test.dart: wrong parent answer cannot expose destructive action
+00:02 +59: /Users/noname/Desktop/personal-projects/mobileapp/test/settings_test.dart: wrong parent answer cannot expose destructive action
+00:02 +60: /Users/noname/Desktop/personal-projects/mobileapp/test/settings_test.dart: wrong parent answer cannot expose destructive action
+00:02 +61: /Users/noname/Desktop/personal-projects/mobileapp/test/settings_test.dart: wrong parent answer cannot expose destructive action
+00:02 +62: /Users/noname/Desktop/personal-projects/mobileapp/test/settings_test.dart: wrong parent answer cannot expose destructive action
+00:02 +63: /Users/noname/Desktop/personal-projects/mobileapp/test/settings_test.dart: wrong parent answer cannot expose destructive action
+00:02 +64: /Users/noname/Desktop/personal-projects/mobileapp/test/settings_test.dart: wrong parent answer cannot expose destructive action
+00:02 +65: /Users/noname/Desktop/personal-projects/mobileapp/test/settings_test.dart: wrong parent answer cannot expose destructive action
+00:02 +66: /Users/noname/Desktop/personal-projects/mobileapp/test/settings_test.dart: all preference switches persist after reopening
+00:03 +67: /Users/noname/Desktop/personal-projects/mobileapp/test/widget_test.dart: onboarding reaches a usable home, studio, and rewards
+00:03 +68: /Users/noname/Desktop/personal-projects/mobileapp/test/widget_test.dart: onboarding reaches a usable home, studio, and rewards
+00:03 +69: /Users/noname/Desktop/personal-projects/mobileapp/test/widget_test.dart: onboarding reaches a usable home, studio, and rewards
+00:03 +70: /Users/noname/Desktop/personal-projects/mobileapp/test/widget_test.dart: onboarding reaches a usable home, studio, and rewards
+00:03 +71: /Users/noname/Desktop/personal-projects/mobileapp/test/widget_test.dart: onboarding reaches a usable home, studio, and rewards
+00:03 +72: /Users/noname/Desktop/personal-projects/mobileapp/test/widget_test.dart: onboarding reaches a usable home, studio, and rewards
+00:03 +73: /Users/noname/Desktop/personal-projects/mobileapp/test/widget_test.dart: onboarding reaches a usable home, studio, and rewards
+00:03 +74: /Users/noname/Desktop/personal-projects/mobileapp/test/widget_test.dart: onboarding reaches a usable home, studio, and rewards
+00:03 +75: /Users/noname/Desktop/personal-projects/mobileapp/test/widget_test.dart: onboarding reaches a usable home, studio, and rewards
+00:03 +76: /Users/noname/Desktop/personal-projects/mobileapp/test/widget_test.dart: onboarding reaches a usable home, studio, and rewards
+00:03 +77: /Users/noname/Desktop/personal-projects/mobileapp/test/widget_test.dart: onboarding reaches a usable home, studio, and rewards
+00:03 +78: /Users/noname/Desktop/personal-projects/mobileapp/test/widget_test.dart: onboarding reaches a usable home, studio, and rewards
+00:03 +79: /Users/noname/Desktop/personal-projects/mobileapp/test/widget_test.dart: onboarding reaches a usable home, studio, and rewards
+00:03 +80: /Users/noname/Desktop/personal-projects/mobileapp/test/widget_test.dart: onboarding reaches a usable home, studio, and rewards
+00:03 +81: /Users/noname/Desktop/personal-projects/mobileapp/test/widget_test.dart: onboarding reaches a usable home, studio, and rewards
+00:03 +82: /Users/noname/Desktop/personal-projects/mobileapp/test/widget_test.dart: onboarding reaches a usable home, studio, and rewards
+00:03 +83: /Users/noname/Desktop/personal-projects/mobileapp/test/widget_test.dart: onboarding reaches a usable home, studio, and rewards
+00:03 +84: /Users/noname/Desktop/personal-projects/mobileapp/test/widget_test.dart: onboarding reaches a usable home, studio, and rewards
+00:03 +85: /Users/noname/Desktop/personal-projects/mobileapp/test/widget_test.dart: onboarding reaches a usable home, studio, and rewards
+00:03 +86: /Users/noname/Desktop/personal-projects/mobileapp/test/widget_test.dart: onboarding reaches a usable home, studio, and rewards
+00:03 +87: /Users/noname/Desktop/personal-projects/mobileapp/test/widget_test.dart: onboarding reaches a usable home, studio, and rewards
+00:04 +88: /Users/noname/Desktop/personal-projects/mobileapp/test/widget_test.dart: onboarding reaches a usable home, studio, and rewards
+00:04 +89: /Users/noname/Desktop/personal-projects/mobileapp/test/widget_test.dart: onboarding reaches a usable home, studio, and rewards
+00:04 +90: /Users/noname/Desktop/personal-projects/mobileapp/test/widget_test.dart: onboarding reaches a usable home, studio, and rewards
+00:04 +91: /Users/noname/Desktop/personal-projects/mobileapp/test/widget_test.dart: onboarding reaches a usable home, studio, and rewards
+00:04 +92: /Users/noname/Desktop/personal-projects/mobileapp/test/widget_test.dart: onboarding reaches a usable home, studio, and rewards
+00:04 +93: /Users/noname/Desktop/personal-projects/mobileapp/test/widget_test.dart: onboarding reaches a usable home, studio, and rewards
+00:04 +94: /Users/noname/Desktop/personal-projects/mobileapp/test/widget_test.dart: onboarding reaches a usable home, studio, and rewards
+00:04 +95: /Users/noname/Desktop/personal-projects/mobileapp/test/widget_test.dart: onboarding reaches a usable home, studio, and rewards
+00:04 +96: /Users/noname/Desktop/personal-projects/mobileapp/test/widget_test.dart: onboarding reaches a usable home, studio, and rewards
+00:04 +97: /Users/noname/Desktop/personal-projects/mobileapp/test/widget_test.dart: onboarding reaches a usable home, studio, and rewards
+00:04 +98: /Users/noname/Desktop/personal-projects/mobileapp/test/widget_test.dart: onboarding reaches a usable home, studio, and rewards
+00:04 +99: /Users/noname/Desktop/personal-projects/mobileapp/test/widget_test.dart: onboarding reaches a usable home, studio, and rewards
+00:04 +100: /Users/noname/Desktop/personal-projects/mobileapp/test/widget_test.dart: onboarding reaches a usable home, studio, and rewards
+00:04 +101: /Users/noname/Desktop/personal-projects/mobileapp/test/visual_smoke_test.dart: onboarding, themed map, all games, and rotation remain usable
+00:04 +102: /Users/noname/Desktop/personal-projects/mobileapp/test/visual_smoke_test.dart: onboarding, themed map, all games, and rotation remain usable
+00:04 +103: /Users/noname/Desktop/personal-projects/mobileapp/test/visual_smoke_test.dart: onboarding, themed map, all games, and rotation remain usable
+00:05 +104: /Users/noname/Desktop/personal-projects/mobileapp/test/visual_smoke_test.dart: onboarding, themed map, all games, and rotation remain usable
+00:05 +105: /Users/noname/Desktop/personal-projects/mobileapp/test/visual_smoke_test.dart: onboarding, themed map, all games, and rotation remain usable
+00:05 +106: /Users/noname/Desktop/personal-projects/mobileapp/test/visual_smoke_test.dart: onboarding, themed map, all games, and rotation remain usable
+00:05 +107: /Users/noname/Desktop/personal-projects/mobileapp/test/visual_smoke_test.dart: onboarding, themed map, all games, and rotation remain usable
+00:05 +108: /Users/noname/Desktop/personal-projects/mobileapp/test/visual_smoke_test.dart: onboarding, themed map, all games, and rotation remain usable
+00:05 +109: /Users/noname/Desktop/personal-projects/mobileapp/test/visual_smoke_test.dart: onboarding, themed map, all games, and rotation remain usable
+00:05 +110: /Users/noname/Desktop/personal-projects/mobileapp/test/visual_smoke_test.dart: onboarding, themed map, all games, and rotation remain usable
+00:05 +111: /Users/noname/Desktop/personal-projects/mobileapp/test/visual_smoke_test.dart: onboarding, themed map, all games, and rotation remain usable
+00:05 +112: /Users/noname/Desktop/personal-projects/mobileapp/test/visual_smoke_test.dart: onboarding, themed map, all games, and rotation remain usable
+00:05 +113: /Users/noname/Desktop/personal-projects/mobileapp/test/visual_smoke_test.dart: onboarding, themed map, all games, and rotation remain usable
+00:05 +114: /Users/noname/Desktop/personal-projects/mobileapp/test/visual_smoke_test.dart: onboarding, themed map, all games, and rotation remain usable
+00:05 +115: /Users/noname/Desktop/personal-projects/mobileapp/test/visual_smoke_test.dart: onboarding, themed map, all games, and rotation remain usable
+00:05 +116: /Users/noname/Desktop/personal-projects/mobileapp/test/visual_smoke_test.dart: onboarding, themed map, all games, and rotation remain usable
+00:05 +117: /Users/noname/Desktop/personal-projects/mobileapp/test/visual_smoke_test.dart: onboarding, themed map, all games, and rotation remain usable
+00:05 +118: /Users/noname/Desktop/personal-projects/mobileapp/test/visual_smoke_test.dart: onboarding, themed map, all games, and rotation remain usable
+00:05 +119: /Users/noname/Desktop/personal-projects/mobileapp/test/visual_smoke_test.dart: onboarding, themed map, all games, and rotation remain usable
+00:05 +120: /Users/noname/Desktop/personal-projects/mobileapp/test/visual_smoke_test.dart: onboarding, themed map, all games, and rotation remain usable
+00:05 +121: /Users/noname/Desktop/personal-projects/mobileapp/test/visual_smoke_test.dart: onboarding, themed map, all games, and rotation remain usable
+00:05 +122: /Users/noname/Desktop/personal-projects/mobileapp/test/visual_smoke_test.dart: onboarding, themed map, all games, and rotation remain usable
+00:06 +123: /Users/noname/Desktop/personal-projects/mobileapp/test/visual_smoke_test.dart: onboarding, themed map, all games, and rotation remain usable
+00:06 +124: /Users/noname/Desktop/personal-projects/mobileapp/test/visual_smoke_test.dart: onboarding, themed map, all games, and rotation remain usable
+00:06 +125: /Users/noname/Desktop/personal-projects/mobileapp/test/visual_smoke_test.dart: onboarding, themed map, all games, and rotation remain usable
+00:06 +126: /Users/noname/Desktop/personal-projects/mobileapp/test/visual_smoke_test.dart: onboarding, themed map, all games, and rotation remain usable
+00:06 +127: /Users/noname/Desktop/personal-projects/mobileapp/test/art_test.dart: 24 themed hidden worksheets are distinct, complete partitions
+00:06 +128: /Users/noname/Desktop/personal-projects/mobileapp/test/art_test.dart: Render original illustration contact sheet
+00:06 +129: /Users/noname/Desktop/personal-projects/mobileapp/test/art_test.dart: Render curved number worksheet
+00:06 +130: /Users/noname/Desktop/personal-projects/mobileapp/test/art_test.dart: (tearDownAll)
+00:06 +130: All tests passed!

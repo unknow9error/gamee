@@ -1,0 +1,14 @@
+{
+  "mastersSha256": {
+    "assets/branding/fini-launcher-master.png": "a9f36ee4541af0028bcd21dbfe6ff0810254aaf2b6dbfcb064ca2f16d3751c5e",
+    "assets/images/fini.png": "2fe78de2abc80a54606db10cc0f4021724542ba45b06f988eb4a25c5332cf489"
+  },
+  "iosSlots": 19,
+  "androidLayerDp": 108,
+  "androidArtworkDp": 62,
+  "androidArtworkYShiftDp": 5,
+  "androidMaskedViewportDp": 72,
+  "androidCriticalSafeCircleDp": 66,
+  "maskPreviewsAreApproximations": true,
+  "masterPixelsCreativelyEdited": false
+}

@@ -1,0 +1,11 @@
+Native integration PASS — Android API 34 ARM64 emulator-5554.
+Built target: flutter build apk --debug --target=integration_test/app_test.dart --target-platform android-arm64
+Installed the actual target APK using ADB, cold-launched MainActivity.
+The self-driven integration_test framework ran its five-activity suite on the native device.
+Exact framework result: android-native-result.json
+Assertions cover all five completions, 15 stars, four artworks, chapter unlock, real platform-store reload, native speech-channel capability response.
+
+Host Flutter test/drive discovery initially waited on Xcode's automatic first-launch wrapper. It was stopped; no successful host-runner result is claimed.
+The first result poll used cache/, while Directory.systemTemp on this Android runtime is code_cache/. The framework's existing result was then found by its exact filename and read from code_cache/tiny-trails-qa-result.json. No test rerun or manually manufactured pass was used.
+
+After test completion the normal optimized ARM64 preview was installed and cold-launched successfully (1375ms reported Android Activity launch). The native Settings screen rendered, language changed to Russian, and the app returned to Home. No integration harness remains installed on the emulator.

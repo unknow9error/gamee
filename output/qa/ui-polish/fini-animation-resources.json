@@ -1,0 +1,29 @@
+{
+  "started": true,
+  "exitCode": 0,
+  "guardStopped": false,
+  "reason": null,
+  "elapsedSeconds": 2.07,
+  "initial": {
+    "physicalFreeBytes": 6051577856,
+    "hostFreeBytes": 482205696,
+    "ramFreeBytes": 1858469888,
+    "childTreeRssBytes": 0
+  },
+  "samples": [
+    {
+      "physicalFreeBytes": 6046597120,
+      "hostFreeBytes": 482197504,
+      "ramFreeBytes": 1858469888,
+      "childTreeRssBytes": 344064,
+      "elapsedSeconds": 0.02
+    },
+    {
+      "physicalFreeBytes": 5520474112,
+      "hostFreeBytes": 482037760,
+      "ramFreeBytes": 1762455552,
+      "childTreeRssBytes": 617758720,
+      "elapsedSeconds": 1.06
+    }
+  ]
+}

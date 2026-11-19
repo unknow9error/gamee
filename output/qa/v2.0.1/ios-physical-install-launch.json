@@ -1,0 +1,13 @@
+{
+  "bundleIdentifier": "kz.tinytrails.tinyTrails",
+  "version": "2.0.1",
+  "build": "3",
+  "installSucceeded": true,
+  "foregroundLaunchSucceeded": true,
+  "runningPid": 1988,
+  "verifiedExecutable": "/private/var/containers/Bundle/Application/1ADFE549-261E-47D5-901B-F964D5C3F3D1/Runner.app/Runner",
+  "verification": "CoreDevice human launch stdout and process info filtered by own installation URL",
+  "inPlaceUpgrade": true,
+  "uninstallOrDataReset": false,
+  "launchJsonOrEnvironmentRead": false
+}
